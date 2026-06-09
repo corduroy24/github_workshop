@@ -1,5 +1,10 @@
 # Git/GitHub Command Sheet
 
+Testing commit
+
+
+I want to add some more tests 
+
 ## Check Your Setup
 
 ```bash

@@ -1,4 +1,4 @@
-# Capstone Repo Checklist
+Github Workshop
 
 ## Repository Basics
 
